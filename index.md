@@ -5,3 +5,10 @@ Die Sprache Englisch habe ich gewählt, weil eh' fast alles englisch bezeichnet 
 Hoffentlich stürzt der bot jetzt nicht ab!
 Nach Falscheingabe starte (=commit) ich das erneut.
 
+## Die Wichtigsten
+
+* Foto
+* Amateurfunk 
+* Fliegen
+
+< Nur Fliegen ist schöner >
