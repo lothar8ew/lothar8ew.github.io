@@ -12,3 +12,4 @@ Nach Falscheingabe starte (=commit) ich das erneut.
 * Fliegen
 
 "Nur Fliegen ist schöner"
+<img src= "http://www.ov-erding.de/assets/images/hrFP20160625-1w-.jpg"/>
