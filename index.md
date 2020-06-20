@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# 1. Headline Number1
-
-
-=======
 # My hobbies
->>>>>>> a6de47ac1bd4e84afff7154715cb8cd7e1caef29
+Zweiter Versuch, die Indexdatei zu änern. Das "underneath the title" habe ich wohl falsch verstanden.
+Egal, was hier steht, ws sollten die wenigstens 30 Worte sein und daher werde ich den sinnlosen
+Text - so wie er ist - hernehmen und die Procedure mit add  usw... neu starten
+
