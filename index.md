@@ -6,7 +6,6 @@ Hoffentlich stürzt der bot jetzt nicht ab!
 Nach Falscheingabe starte (=commit) ich das erneut.
 
 ## Die Wichtigsten
-
 * Foto
 * Amateurfunk 
 * Fliegen
